@@ -1,4 +1,3 @@
-body > h1 {
-    font-size: large;
-    color: brown;
+.full-page{
+    align-items: center;
 }
