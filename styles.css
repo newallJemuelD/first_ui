@@ -1,5 +1,11 @@
+body {
+    background-image: url(../images/dailyui-1.jpg);
+}
+
+
 .full-page{
     align-items: center;
     margin: 100px 400px;
     padding: 20px;
 }
+
