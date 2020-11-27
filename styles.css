@@ -4,8 +4,17 @@ body {
 
 
 .full-page{
+    display: flex;
+    flex-direction: column;
     align-items: center;
     margin: 100px 400px;
     padding: 20px;
 }
+
+
+/* .content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
 
